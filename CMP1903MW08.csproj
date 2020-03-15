@@ -46,6 +46,7 @@
     <Compile Include="GolfClubMemberBase.cs" />
     <Compile Include="JuniorMember.cs" />
     <Compile Include="Member.cs" />
+    <Compile Include="Output.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SocialMember.cs" />
